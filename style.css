@@ -1,0 +1,94 @@
+html{
+background-color:hsl(204, 43%, 93%);
+font-family:  'Karla';
+font-size: 16px;
+}
+.box-1{
+background-color: white;
+margin:100px 0px 0px 350px;
+border-radius: 8px 8px 0px 0px;;
+height: 200px;
+width: 600px;
+box-shadow: 5px 5px 5px lightgrey;
+}
+.box-2{
+    background-color:hsl(179, 62%, 43%);
+    margin:0px 0px 0px 350px; 
+    height: 230px;
+    width: 300px;
+    display:inline-block;
+    color: white;
+    border-radius: 0px 0px 0px 8px;
+    box-shadow: 5px 5px 5px lightgrey;
+    }
+.box-3{
+        background-color:hsl(179, 62%, 43%);
+        margin:0px 0px 0px 0px;
+        height: 230px;
+        width: 300px;
+        display:inline-block;
+        position:absolute ;
+        opacity: 90%;
+        color: white;
+        border-radius: 0px 0px 8px 0px;
+        box-shadow: 5px 5px 5px lightgrey;
+        font-weight: 400;      
+    }
+ul{
+         list-style: none;
+         font-size: 14px;
+         opacity: 80%;
+        }
+        .btn{
+
+            background-color: hsl(71, 73%, 54%);
+            border: none;
+            border-radius: 4px;
+            width: 190px;
+            height: 45px;
+            align-items: center;
+            margin-left: 60px;
+            color: white;
+            font-size: 16px;
+        }
+        button:hover{
+            opacity: 80%;
+            cursor: pointer;
+        }
+#block3-heading{
+    margin-left: 35px;
+   
+}
+#main-heading{
+  padding: 40px 0px 0px 35px;
+    color: hsl(179, 62%, 43%);
+}
+#price{
+    padding: 10px 0px 0px 35px;
+    
+}
+#price-detail{
+    padding: 0px 0px 0px 35px;
+    margin-top: 0px;
+}
+span{
+    font-size: 28px;
+    padding: 0px 0px 0px 35px;
+    opacity: 100%;
+}
+#pricing{
+    font-size: 14px;
+    opacity: 90%;
+    display: inline-block;
+    position: relative;
+    top:-4px;
+    padding-left: 8px;
+}
+#description{
+    padding: 0px 0px 0px 35px;
+    color: hsl(71, 73%, 54%);
+}
+#box1-p{
+    padding: 0px 0px 0px 35px;
+color: hsl(218, 22%, 67%);
+}
